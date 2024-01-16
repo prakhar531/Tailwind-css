@@ -12,5 +12,5 @@ steps:
 6. npm run start
 
 If any error occurs with autoprefixer then :
-npm install -D tailwind postcss autoprefixer vite
-npx tailwind init -p
+1. npm install -D tailwind postcss autoprefixer vite
+2. npx tailwind init -p
